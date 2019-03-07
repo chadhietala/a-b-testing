@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{6:function(n,e,r){"use strict";r.r(e),r.d(e,"default",function(){return s});class s{render(n){return`B: ${n.name}`}}}}]);
