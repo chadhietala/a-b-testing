@@ -8,7 +8,7 @@ import(`./treatments/${testName}/${treatment}.js`)
 
 This will keep all the modules within `treatments/` as loose modules, because the client code is going to dynamically import based on runtime information.
 
-We already have an LiX based culture, where all features are LiX, so we should make the expirence not only easy but also performant by default by encouraging a coupling of treatment to file.
+We already have an LiX based culture, where all features are LiX'd, so we should make the experience not only easy but also performant by default by encouraging a coupling of treatment to file.
 
 # Serving
 
